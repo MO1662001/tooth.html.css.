@@ -1,0 +1,41 @@
+p{
+    color: darkslateblue;
+    font-size: 20px;
+
+}
+
+a{
+    color: rgb(65, 55, 74);
+    font-size: larger;
+}
+
+h2{
+    color: rgb(30, 26, 34);
+
+}
+body{
+    text-decoration:underline;
+    background-image: url(https://images.unsplash.com/photo-1532120308961-b163b7ae0791?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80);
+
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: center;
+}
+img{
+    margin-left: 35%;
+}
+nav{
+    border: 5px;
+    padding: 40px;
+    background-color: rgb(165, 42, 155);
+}
+nav{
+    background-image: url(https://image.freepik.com/free-vector/vector-illustration-happy-smiling-healthy-baby-human-tooth-with-eyes-toothpaste_501907-498.jpg?w=996);
+    background-position: right 15%;
+    background-repeat:no-repeat;
+}
+.box.ithem:{
+    position: absolute;
+    left: 30%;
+    top: 30%;
+}
